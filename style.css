@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+    color:white; 
+}
+#main {
+    margin-top: 40px;
+    align-items: baseline;
+    font-size: 40px;
+    margin-left: 20px;
+}
+#current {
+    margin-left: 10px;
+    padding: 16px;
+    text-decoration: underline;
+    cursor: pointer;
+    pointer-events: none;
+}
+#Error {
+    margin-left: 10px;
+    padding: 16px;
+    color : red;
+    padding-bottom: 20px;
+}
+.D {
+    padding: 10px;
+    margin: 20px;
+}
+.I {
+    padding: 10px;
+    margin: 20px;
+}
+.C {
+    padding: 10px;
+    margin: 20px;
+}
